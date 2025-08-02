@@ -10,7 +10,7 @@ El propósito de esta página es compartir de manera sencilla el significado del
 
 ##  Características principales
 
-Para construir la página, usé etiquetas semánticas de HTML5 como <header>, <section>, <main> y <footer> para organizar mejor el contenido. Esto no solo hace que se vea ordenado, sino que también ayuda a personas con lectores de pantalla a navegar más fácilmente. También incluí texto alternativo en imágenes, etiquetas de formulario bien asociadas, buen contraste de colores y atributos ARIA para mejorar la accesibilidad y que cualquiera pueda usarla sin problemas.
+Para construir la página, usé etiquetas semánticas de HTML5 como header, section, main y footer para organizar mejor el contenido. Esto no solo hace que se vea ordenado, sino que también ayuda a personas con lectores de pantalla a navegar más fácilmente. También incluí texto alternativo en imágenes, etiquetas de formulario bien asociadas, buen contraste de colores y atributos ARIA para mejorar la accesibilidad y que cualquiera pueda usarla sin problemas.
 
 
 ## Cómo visualizar el proyecto
